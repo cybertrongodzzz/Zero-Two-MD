@@ -1,4 +1,4 @@
-<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+<h1 align="center">𝐂𝐘⃢𝐁𝐄𝐑𝐓𝐑⃝𝐎𝐍〽️𝐆𝐎𝐃𝐙⃢𝐙𝐙<br></h1>
 
 <p align="center">
 
@@ -16,7 +16,7 @@
 
 
 
-### How to enable Zero-Two On your number
+### How to enable Zero-Two-bot On your number
 -   First Open `Github Link Of Zero Two`
 -   Click on Fork Button upwards right corner
 -  Tap Deploy Image down blew and Fill config vars
